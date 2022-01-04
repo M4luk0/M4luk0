@@ -5,18 +5,18 @@
 # -*- coding: utf-8 -*-
 
 
-class Cibersec_student:
+class Cybersec_student:
 
     def __init__(self):
         self.name = "Juan Antonio"
-        self.role = "Cibersecurity Student"
+        self.role = "Cybersecurity Student"
         self.language_spoken = ["es", "en"]
 
     def say_hi(self):
         print("Constantly learning cybersecurity and programming.")
 
 
-me = Cibersec_student()
+me = Cybersec_student()
 me.say_hi()
 ```
 
