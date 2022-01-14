@@ -13,7 +13,7 @@ class Cybersec:
         self.language_spoken = ["es", "en"]
 
     def say_hi(self):
-        print("eJPT certified.")
+        print("eJPT Certified.")
         print("CTF player in many platforms but the most remarkable is 1% and top 10 in Spain in tryhackme.")
 
 
