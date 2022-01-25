@@ -25,6 +25,7 @@ me.say_hi()
 - Linkedin profile: https://www.linkedin.com/in/juan-antonio-gil-chamorro-8607b3197/
 - Twitter: https://twitter.com/M4luk01
 - Mail: jagilchamorro@gmail.com
+- Blog: https://m4luk0.github.io/
 
 ## 🚩 CTF profiles
 - TryHackMe: https://tryhackme.com/p/M4luk0
